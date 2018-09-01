@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Tabs on bottom of the titlebar",
+    "description": "Example of a theme experiment using theme_experiment. Open about:config and set extensions.legacy.enabled to true in Firefox v56+ Nightly or DevEdition.",
+    "version": "1.0",
+    "theme": {
+      "images": {
+      }
+    },
+    "theme_experiment": {
+      "stylesheet": "tabs.css"
+    }
+  }
